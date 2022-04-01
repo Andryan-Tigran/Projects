@@ -1,0 +1,26 @@
+# ninja log v5
+1	14	1647892746956958319	CMakeFiles/image_processor.dir/Filter.cpp.o	2287b42519ca087
+1	1506	1648411676306325770	CMakeFiles/image_processor.dir/Image.cpp.o	5f9c4707f549d5b7
+2	1217	1648488055013062580	CMakeFiles/image_processor.dir/CollageFilter.cpp.o	61c7b39c2156967f
+3	1379	1648411676178327542	CMakeFiles/image_processor.dir/GaussianBlurFilter.cpp.o	daaa91859214e78e
+3	1070	1648414606670351830	CMakeFiles/image_processor.dir/ShadeFilter.cpp.o	28e42e59fba35f07
+2	1247	1648411676046329370	CMakeFiles/image_processor.dir/NamespaceBMPImage.cpp.o	9e573731fce500d4
+0	16	1648411673542364049	build.ninja	d8b7fd65fe7917ae
+1	1068	1648411675866331863	CMakeFiles/image_processor.dir/Pixels.cpp.o	815e8071f17a9d39
+1	1737	1648488055533070082	CMakeFiles/image_processor.dir/Parsing.cpp.o	2723f93060de1180
+1	948	1648488054745058710	CMakeFiles/image_processor.dir/PixelFilter.cpp.o	5d82b825fcff7b27
+2	468	1647981972381708877	CMakeFiles/image_processor.dir/Parthing.cpp.o	d33b49142b71aed2
+1	1549	1648411676350325161	CMakeFiles/image_processor.dir/GrayscaleFilter.cpp.o	bfccc703e293fbfb
+0	1208	1648488055005062465	CMakeFiles/image_processor.dir/image_processor.cpp.o	6fad5cd53e7b534f
+1	1174	1648488054969061946	CMakeFiles/image_processor.dir/CompressionFilter.cpp.o	9e0328040835dee5
+4	1073	1648411675874331752	CMakeFiles/image_processor.dir/Print.cpp.o	3513d58f55a708f5
+2	1325	1648411676126328263	CMakeFiles/image_processor.dir/CropFilter.cpp.o	9a42af229fc7e7ff
+1	48	1647976880053042128	CMakeFiles/image_processor.dir/Parting.cpp.o	8ad3de8fcd3f65
+1	1193	1648488054989062234	CMakeFiles/image_processor.dir/EdgeDetectionFilter.cpp.o	a40350c3a232668b
+1	1247	1648411676046329370	CMakeFiles/image_processor.dir/NegativeFilter.cpp.o	8a93509f6e84906e
+1	1046	1648488054841060096	CMakeFiles/image_processor.dir/MatrixFilter.cpp.o	a01e0dc7a13e2b60
+1	948	1648488054745058710	CMakeFiles/image_processor.dir/SharpeningFilter.cpp.o	96a72b8cdd7b7e09
+1737	1797	1648488055593070946	image_processor	8d1f8e2482d8259b
+0	561	1648488164246565494	CMakeFiles/image_processor.dir/EdgeDetectionFilter.cpp.o	a40350c3a232668b
+1	1338	1648488165022575776	CMakeFiles/image_processor.dir/Parsing.cpp.o	2723f93060de1180
+1338	1389	1648488165070576412	image_processor	8d1f8e2482d8259b

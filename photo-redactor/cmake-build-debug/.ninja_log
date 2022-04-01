@@ -1,0 +1,24 @@
+# ninja log v5
+2	50	1648031489333237420	CMakeFiles/image_processor.dir/Filter.cpp.o	fe5cd2ec04d033e7
+1	606	1648369200022400706	CMakeFiles/image_processor.dir/Image.cpp.o	c6299ae4b8505a2b
+1468	2376	1648369072442161112	CMakeFiles/image_processor.dir/CollageFilter.cpp.o	71945024ab38f76
+12	1934	1648369071998160822	CMakeFiles/image_processor.dir/GaussianBlurFilter.cpp.o	d7526ed63a146191
+1189	2349	1648369072414161093	CMakeFiles/image_processor.dir/ShadeFilter.cpp.o	24564b8a4e2ab214
+1	553	1648370116753232587	CMakeFiles/image_processor.dir/NamespaceBMPImage.cpp.o	a022ce4c9f1a256e
+0	29	1648411673542364049	build.ninja	2244a15cc88adfeb
+2	1189	1648369071254160352	CMakeFiles/image_processor.dir/Pixels.cpp.o	6f568c365ef8833
+15	2757	1648369072822161360	CMakeFiles/image_processor.dir/Parsing.cpp.o	beec5296345f2834
+31	1783	1648369071846160726	CMakeFiles/image_processor.dir/PixelFilter.cpp.o	9b256bcec4eac470
+3	1744	1648369071806160701	CMakeFiles/image_processor.dir/GrayscaleFilter.cpp.o	e261112ac5c69905
+2	2198	1648369072262160994	CMakeFiles/image_processor.dir/image_processor.cpp.o	889076847d45733
+23	1815	1648369071878160746	CMakeFiles/image_processor.dir/CompressionFilter.cpp.o	483ee4279a624b9d
+1	664	1647720651682662667	CMakeFiles/image_processor.dir/FilterGrayscale.cpp.o	11604358c7e7fb85
+1	385	1648292588192985785	CMakeFiles/image_processor.dir/Print.cpp.o	19b54bfd99b497bb
+1	511	1647787169685207318	CMakeFiles/image_processor.dir/Namespace_BMP_Image.cpp.o	e45c28912285071d
+6	1584	1648369071646160600	CMakeFiles/image_processor.dir/CropFilter.cpp.o	628cfb8c9a6ff90c
+1	477	1647545951999305101	CMakeFiles/image_processor.dir/Filters.cpp.o	541b4dc29bc1c06
+4	1924	1648369071986160815	CMakeFiles/image_processor.dir/EdgeDetectionFilter.cpp.o	db81ee152c81c33
+2	1625	1648369071690160628	CMakeFiles/image_processor.dir/NegativeFilter.cpp.o	a1faef0a86945e81
+5	1803	1648369071866160739	CMakeFiles/image_processor.dir/MatrixFilter.cpp.o	828ddd72cbd9424e
+3	1468	1648369071530160527	CMakeFiles/image_processor.dir/SharpeningFilter.cpp.o	7c57228a71552a2f
+553	647	1648370116849233540	image_processor	d5daf8f6dfb7aba7
